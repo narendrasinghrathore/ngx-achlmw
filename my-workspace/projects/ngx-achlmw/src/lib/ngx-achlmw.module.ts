@@ -1,16 +1,11 @@
 import { NgModule } from '@angular/core';
-import { NgxAchlmwComponent } from './ngx-achlmw.component';
-
-
+import { NgxAchlmwDirective } from './ngx-achlmw.directive';
 
 @NgModule({
   declarations: [
-    NgxAchlmwComponent
+    NgxAchlmwDirective
   ],
-  imports: [
-  ],
-  exports: [
-    NgxAchlmwComponent
-  ]
+  imports: [],
+  exports: [NgxAchlmwDirective],
 })
-export class NgxAchlmwModule { }
+export class NgxAchlmwModule {}

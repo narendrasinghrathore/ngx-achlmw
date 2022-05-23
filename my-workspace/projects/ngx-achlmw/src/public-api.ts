@@ -3,5 +3,5 @@
  */
 
 export * from './lib/ngx-achlmw.service';
-export * from './lib/ngx-achlmw.component';
+export * from './lib/ngx-achlmw.directive';
 export * from './lib/ngx-achlmw.module';
