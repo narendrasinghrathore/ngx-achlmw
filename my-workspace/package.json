@@ -8,8 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "bl": "ng build ngx-achlmw --watch",
-    "lp": "ng serve --project autocomplete-test",
-    "blp": "npm run bl && npm run lp"
+    "lp": "ng serve --project autocomplete-test"
   },
   "private": true,
   "dependencies": {
